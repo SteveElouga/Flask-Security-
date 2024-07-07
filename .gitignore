@@ -1,5 +1,6 @@
 # Flask-Security-
 env/
+.env
 *.pyc
 __pycache__
 .cache/
